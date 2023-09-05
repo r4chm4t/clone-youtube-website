@@ -1,8 +1,16 @@
 body {
-  background-color: #161616;
+  background-color: #18181a;
   color: #fff;
 }
 
-/* this is header */
+/* this is header */ /* sidebar */
+#sidebar {
+  width: 250px;
+}
+
+/* button */
+.btn-default:hover {
+  background-color: rgba(128, 128, 128, 0.4509803922);
+}
 
 /*# sourceMappingURL=main.css.map */
