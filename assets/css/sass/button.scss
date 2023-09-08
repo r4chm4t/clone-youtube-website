@@ -1,5 +1,18 @@
 /* button */
 
+.btn-gray {
+	background-color: #80808050;	
+}
+
+.btn-gray:hover {
+	background-color: #80808090;	
+}
+
 .btn-default:hover {
 	background-color: #80808073;	
+}
+
+.btn-outline {
+	background-color: transparent;
+	border: 1px solid gray;
 }
